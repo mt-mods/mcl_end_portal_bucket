@@ -1,0 +1,4 @@
+Bucket of End Portal=
+This bucket contains end portal which can be placed.=
+Place it to empty the bucket and place an end portal.=
+Used to place end portal.=
