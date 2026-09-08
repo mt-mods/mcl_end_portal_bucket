@@ -1,0 +1,13 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "End Portal Buckets for Mineclonia",
+  "tags": ["magic", "building_mechanics", "transport", "technology"],
+  "type": "MOD",
+  "dev_state": "MAINTENANCE_ONLY",
+  "ai_disclosure": "NONE",
+  "license": "MIT",
+  "media_license": "CC-BY-SA-4.0",
+  "repo": "https://github.com/mt-mods/mcl_end_portal_bucket",
+  "issue_tracker": "https://github.com/mt-mods/mcl_end_portal_bucket/issues/new/choose/",
+  "translation_url": "https://translate.luanti.ch/engage/mt-mods/"
+}
