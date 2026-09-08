@@ -1,4 +1,4 @@
-# End Portal Buckets for MineClone2
+# End Portal Buckets for Mineclonia
 
 Adds an easy way to access the end from anywhere by carrying an placeable end portal in a bucket.
 
