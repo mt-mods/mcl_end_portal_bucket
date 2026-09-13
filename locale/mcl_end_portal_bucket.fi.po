@@ -8,27 +8,29 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-07 21:43-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-09-14 15:07+0000\n"
+"Last-Translator: Jouni Järvinen <rautajunk@gmail.com>\n"
+"Language-Team: Finnish <https://translate.luanti.ch/projects/mt-mods/"
+"mcl_end_portal_bucket/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: init.lua:18
 msgid "Bucket of End Portal"
-msgstr ""
+msgstr "Ämpäri End-portaalilla"
 
 #: init.lua:19
 msgid "This bucket contains end portal which can be placed."
-msgstr ""
+msgstr "Tämä ämpäri sisältää End-portaalin, joka voidaan asettaa."
 
 #: init.lua:20
 msgid "Place it to empty the bucket and place an end portal."
-msgstr ""
+msgstr "Aseta se tyhjentääksesi ämpärin ja asettaaksesi End-portaalin."
 
 #: init.lua:21
 msgid "Used to place end portal."
-msgstr ""
+msgstr "Käytetään End-portaalin asettamiseen."
